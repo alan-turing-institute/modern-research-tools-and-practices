@@ -9,7 +9,7 @@ The goal is to have members of the Turing community share some software tool (id
 In the former case, this can help others in the community learn a new tool or practice.
 In the latter case, it can promote a more open approach to collaborative learning.
 
-- To see the schedule for upcoming sessions, or to review past session notes, please visit our [sessions directory](./sessions/).
+To see the schedule for upcoming sessions, or to review past session notes, please visit our [sessions directory](./sessions/).
 
 > [!IMPORTANT]
 > **Presentations should be informal** 
