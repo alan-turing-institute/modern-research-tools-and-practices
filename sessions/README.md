@@ -6,11 +6,11 @@
 > 
 > **Suggested Topics**
 > 
->   - 📚 Reproducible workflows for research or systematic literature reviews
->   - 📝 Smart note-taking
->   - 💬 Open collaboration and publishing through methods such as digital gardens
->   - 🧠 Using AI tools to support research (e.g. LLMs)
->   - ⌚️ Research project management and organisation methods
+> - 📚 Reproducible workflows for research or systematic literature reviews
+> - 📝 Smart note-taking
+> - 💬 Open collaboration and publishing through methods such as digital gardens
+> - 🧠 Using AI tools to support research (e.g. LLMs)
+> - ⌚️ Research project management and organisation methods
 
 ## Current Schedule
 
