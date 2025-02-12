@@ -9,6 +9,8 @@ The goal is to have members of the Turing community share some software tool (id
 In the former case, this can help others in the community learn a new tool or practice.
 In the latter case, it can promote a more open approach to collaborative learning.
 
+- To see the schedule for upcoming sessions, or to review past session notes, please visit our [sessions directory](./sessions/).
+
 > [!IMPORTANT]
 > **Presentations should be informal** 
 >
@@ -32,23 +34,3 @@ What it does exclude, for instance, is assuming that everyone who attends is a d
 
 Rather, these presentations should complement similar sessions such as the REG talks or the Institute's lunch and learn talks.
 If there is sufficient interest in a particular topic, and need for a "deeper dive", we can always arrange follow-ups using these existing sessions.
-
-## Schedule
-
-:::warning
-**🙋‍♀️ Volunteer**
-If you would like to present, please add a row to the below table (using HackMDs editor).
-:::
-
-| Name | Topic | Description | Date |
-| --- | --- | ----- | --- |
-| Chris Burr | Systematic literature reviews | I will showcase a method for carrying out a systematic literature review using free and/or open source software. Papers are gathered and coded using Zotero, data are then imported and managed using Obsidian, before being developed using Quarto and LaTeX. | February 12th |
-<!-- | Add Name | Add Topic | Add Description | Add Date | -->
-
-### Suggested Topics
-
-- 📚 Reproducible workflows for research or systematic literature reviews
-- 📝 Smart note-taking
-- 💬 Open collaboration and publishing through methods such as digital gardens
-- 🧠 Using AI tools to support research (e.g. LLMs)
-- ⌚️ Research project management and organisation methods
