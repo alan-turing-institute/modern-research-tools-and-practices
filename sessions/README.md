@@ -21,5 +21,5 @@
 ## Previous Sessions
 
 | Name | Topic | Description | Date | Link | 
-| --- | --- | ----- | --- |
-| Chris Burr | Systematic literature reviews | I will showcase a method for carrying out a systematic literature review using free and/or open source software. Papers are gathered and coded using Zotero, data are then imported and managed using Obsidian, before being developed using Quarto and LaTeX. | February 12th | [Link to Session Notes](./2025-02-11-lit-review.md)
+| --- | ----- | ----- | --- | --- |
+<!-- | Chris Burr | Systematic literature reviews | I will showcase a method for carrying out a systematic literature review using free and/or open source software. Papers are gathered and coded using Zotero, data are then imported and managed using Obsidian, before being developed using Quarto and LaTeX. | February 12th | [Link to Session Notes](./2025-02-11-lit-review.md) -->
