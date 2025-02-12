@@ -1,6 +1,6 @@
 # Sessions
 
-> [!NOTE] Volunteer
+> [!NOTE]
 > If you would like to present, please add a row to the below table (using HackMDs editor).
 > 
 > **Suggested Topics**
