@@ -17,10 +17,10 @@
 
 ### Session Plan
 
-1. Import PDF into Zotero
+- Import PDF into Zotero
   - *Sidenote*: using Research Rabbit to augment literature searches
-2. Annotate using a pre-defined codebook
-3. Import annotations into Obsidian using template
+- Annotate using a pre-defined codebook
+- Import annotations into Obsidian using template
   - *Sidenote*: installing and using Obsidian plugins
-4. Analysing the Markdown using Dataview
-5. Exporting to CSV for richer data analysis
+- Analysing the Markdown using Dataview
+- Exporting to CSV for richer data analysis
