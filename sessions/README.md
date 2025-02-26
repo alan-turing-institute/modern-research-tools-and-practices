@@ -15,11 +15,12 @@
 
 | Name | Topic | Description | Date |
 | --- | --- | ----- | --- |
-| TBD | TBD | TBD | February 26th |
+| Various | Obsidian Showcase | A showcase of how people in the Turing community are using Obsidian. | March 12th |
 <!-- | Add Name | Add Topic | Add Description | Add Date | -->
 
 ## Previous Sessions
 
 | Name | Topic | Description | Date | Link | 
 | --- | ----- | ----- | --- | --- |
-| Chris Burr | Systematic literature reviews | I will showcase a method for carrying out a systematic literature review using free and/or open source software. Papers are gathered and coded using Zotero, data are then imported and managed using Obsidian, before being developed using Quarto and LaTeX. | February 12th | [Link to Session Notes](./2025-02-11-lit-review.md)
+| Chris Burr | Systematic literature reviews | I will showcase a method for carrying out a systematic literature review using free and/or open source software. Papers are gathered and coded using Zotero, data are then imported and managed using Obsidian, before being developed using Quarto and LaTeX. | February 12th | [Link to Session Notes](./2025-02-11-lit-review.md) |
+| Chris Burr | Obsidian Introduction | A short introduction and overview of Obsidian. | February 26th | [Link to session notes](./2025-02-26-obsidian-overview.md) |
