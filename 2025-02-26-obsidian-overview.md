@@ -4,7 +4,7 @@
 > - Presenter: Christopher Burr
 > - Date and Time: 26th February 2025, 13:00 (UK Time)
 > - HackMD Link: https://hackmd.io/@modern-research-tools-and-practices/HkT_Tzj51e/edit
-> - Recording: TBA
+> - Recording: [OneDrive Link, Internal Only](https://thealanturininstitute-my.sharepoint.com/:v:/g/personal/cburr_turing_ac_uk/EfBN9jc8DNZPj50SMURVrxoBhnbLGK2XKgtyrTT_T6VEIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HRvXWw)
 
 ## :link: Resource Links
 
@@ -18,6 +18,13 @@
 ## :pushpin: Session Plan
 
 <!-- Add a rough plan to structure the presentation (optional) -->
+
+1. What is Obsidian and why would you want to use it?
+2. Backlinks and graph view
+3. Tagging and excerpts
+4. Installing and using plugins
+5. Using Templates
+6. Next steps
 
 ## :question: Group Notes or Questions
 
